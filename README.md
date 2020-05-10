@@ -1,3 +1,18 @@
+# Tudo relacionado a QA
+
+# Agile
+# Agile Testing
+# BDD
+# TDD
+# ATDD
+# Livros
+# Cursos
+# Comunidades
+# Podcast
+# Git
+# Tipos de Testes
+
+
 # Agile
  - [Scrum Guides](http://www.scrumguides.org/)
  - [A Startup Enxuta](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries-ebook/dp/B00A3C4GAK/)
